@@ -20,8 +20,8 @@ Stablity of a sorting algorithm determines, if the given algorithm-provided two 
 
 Formally, 
 Given an array A, an algorithm is stable if and only if, 
-<br/> $\mathsf{i < j \; and \; A[i] == A[j] \; implies \; \pi(i) < \pi(j)}$
-<br/> where $\mathsf{\pi(i)}$ is the sorting permutation.
+$\mathsf{i < j \; and \; A[i] == A[j] \; implies \; \pi(i) < \pi(j)}$
+where $\mathsf{\pi(i)}$ is the sorting permutation.
 
 Stable sorting algorithms include Bubble Sort, Insertion Sort, Merge Sort etc. 
 
