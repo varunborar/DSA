@@ -1,5 +1,3 @@
-package Greedy;
-
 import java.util.Scanner;
 import java.io.File;
 import java.util.Vector;
