@@ -157,4 +157,3 @@ public class Kruskals{
         sc.close();
     }
 }
-
