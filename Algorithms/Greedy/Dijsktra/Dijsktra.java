@@ -1,4 +1,4 @@
-package Dijsktra;
+package Algorithms.Greedy.Dijsktra;
 
 import java.io.File;
 import java.io.FileNotFoundException;
