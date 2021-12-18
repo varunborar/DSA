@@ -144,5 +144,8 @@ An in-place sorting algorithm uses constant extra space for sorting procedure, i
 
 |S. No| Program Name |Implemented Languages |
 |:---:| :------------|:-------------------- |
-| 1.  | [Merge Sort](Merge%20Sort/MergeSort.md)| `Java` |
-| 2.  | [Quick Sort](Quick%20Sort/QuickSort.md)| `Java` |
+| 1.  | [Merge Sort](Merge%20Sort/MergeSort.md)| `Java`, `C++`|
+| 2.  | [Quick Sort](Quick%20Sort/QuickSort.md)| `Java`, `C++` |
+| 3.  | [Insertion Sort](Insertion%20Sort/InsertionSort.md)| `Java` |
+| 4.  | [Bubble Sort](Bubble%20Sort/BubbleSort.md)| `Java` |
+| 5.  | [Selection Sort](Selection%20Sort/SelectionSort.md)| `Java` | 
