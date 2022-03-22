@@ -3,19 +3,33 @@
 using namespace std;
 
 template <typename T>
-class DoublyLinkedList{
+class DoublyLinkedList
+{
 
     template <typename T>
-    struct Node{
+    struct Node
+    {
         T data;
         Node *prev;
         Node *next;
 
-        Node(){
+        Node()
+        {
             data = NULL;
             prev = NULL;
             next = NULL;
         }
     };
-    
+
+    Node *Head;
+    Node *Tail;
+    int size;
+
+public:
+
 };
+
+int main()
+{
+    return 0;
+}

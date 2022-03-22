@@ -56,6 +56,15 @@ public:
         return -1;
     }
 
+    T find(int pos){
+        Node<T> *curr = head;
+        pos -= 1;
+        while(pos--){
+            cur = curr->next;
+        }
+        return curr;
+    }
+
     // Insert Operations
     int insert(T obj, int index)
     {
@@ -157,6 +166,11 @@ public:
     // Other operations
     int getSize(){
         return size;
+    }
+
+    Node<T>* getIterator(){
+        Node *it = head;
+        return it;
     }
 };
 
